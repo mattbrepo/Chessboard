@@ -2,6 +2,7 @@
 Draw a chessboard (for calibration of a two cameras system for stereophotogrammetry)
 
 **Language: Java / Processing**
+
 **Start: 2011**
 
 ## Why
