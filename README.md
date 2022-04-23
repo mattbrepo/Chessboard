@@ -1,7 +1,7 @@
 # Chessboard
 Draw a chessboard (for calibration of a two cameras system for stereophotogrammetry)
 
-**Language: Java / Processing**
+**Language: Java**
 
 **Start: 2011**
 
